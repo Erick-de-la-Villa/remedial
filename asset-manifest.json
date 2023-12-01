@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/remedial/static/css/main.1d8e258b.css",
+    "main.js": "/remedial/static/js/main.520cff02.js",
+    "index.html": "/remedial/index.html",
+    "main.1d8e258b.css.map": "/remedial/static/css/main.1d8e258b.css.map",
+    "main.520cff02.js.map": "/remedial/static/js/main.520cff02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d8e258b.css",
+    "static/js/main.520cff02.js"
+  ]
+}
